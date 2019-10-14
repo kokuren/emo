@@ -18,5 +18,5 @@
       Donovan
   </author>
 
-
+<plugin name="cordova-plugin-camera" />
 </widget>
