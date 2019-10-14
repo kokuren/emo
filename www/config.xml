@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gs.calc"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Emotion AI</name>
+
+  <description>
+      Emotion detection with ML
+  </description>
+	<icon src="logo/SL-Loan-Hero-AI-logo-banks.png" />
+    <icon src="logo/SL-Loan-Hero-AI-logo-banks.png"   gap:platform="android"    gap:qualifier="ldpi" />
+  <author href="https://build.phonegap.com" email="lucdono99@gmail.com">
+      Donovan
+  </author>
+
+
+</widget>
