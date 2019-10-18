@@ -17,6 +17,4 @@
   <author href="https://build.phonegap.com" email="lucdono99@gmail.com">
       Donovan
   </author>
-
-<plugin name="cordova-plugin-camera" />
 </widget>
